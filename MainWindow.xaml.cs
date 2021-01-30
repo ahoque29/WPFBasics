@@ -69,5 +69,6 @@ namespace WPFBasics
 		{
 			MassText.Text = SupplierNameText.Text;
 		}
+
 	}
 }
